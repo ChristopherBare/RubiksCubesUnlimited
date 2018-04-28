@@ -12,20 +12,10 @@
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/christopher/Dropbox/Assignment1/src/java/Database/TestDBPopulation.java</file>
-            <file>file:/home/christopher/Dropbox/Assignment1/web/user-navigation.jsp</file>
-            <file>file:/home/christopher/Dropbox/Assignment1/web/createAccount.jsp</file>
-            <file>file:/home/christopher/Dropbox/Assignment1/src/java/control/ProfileController.java</file>
-            <file>file:/home/christopher/Dropbox/Assignment1/src/java/GoodForYourHeart/UserProfile.java</file>
-            <file>file:/home/christopher/Dropbox/Assignment1/src/java/GoodForYourHeart/Item.java</file>
-            <file>file:/home/christopher/Dropbox/Assignment1/web/cart.jsp</file>
-            <file>file:/home/christopher/Dropbox/Assignment1/web/wishlist.jsp</file>
-            <file>file:/home/christopher/Dropbox/Assignment1/src/java/GoodForYourHeart/User.java</file>
-            <file>file:/home/christopher/Dropbox/Assignment1/web/item.jsp</file>
-            <file>file:/home/christopher/Dropbox/Assignment1/web/index.jsp</file>
-            <file>file:/home/christopher/Dropbox/Assignment1/src/java/GoodForYourHeart/UserDB.java</file>
-            <file>file:/home/christopher/Dropbox/Assignment1/src/java/Login/LoginController.java</file>
-            <file>file:/home/christopher/Dropbox/Assignment1/src/java/Database/Hash.java</file>
+            <file>file:/home/christopher/Dropbox/RubiksCubesUnlimited/web/user-navigation.jsp</file>
+            <file>file:/home/christopher/Dropbox/RubiksCubesUnlimited/src/java/GoodForYourHeart/UserDB.java</file>
+            <file>file:/home/christopher/Dropbox/RubiksCubesUnlimited/src/java/Login/LoginController.java</file>
+            <file>file:/home/christopher/Dropbox/RubiksCubesUnlimited/src/java/control/ProfileController.java</file>
         </group>
     </open-files>
 </project-private>
