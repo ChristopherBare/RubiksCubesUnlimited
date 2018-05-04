@@ -94,7 +94,11 @@
             </div>
         </div>
     </div>
-
+<c:if test="${currentProfile.userID.isAdmin == true}"> 
+    <div>
+        <button class="btn btn-primary" href="#">Add Items To Catalog</button>
+    </div>
+</c:if>
 </div>
 
 

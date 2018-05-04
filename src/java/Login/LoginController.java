@@ -76,9 +76,9 @@ public class LoginController extends HttpServlet {
             String lastName = request.getParameter("lastName");
             String confirm = request.getParameter("confirm");
 
-            if (password != confirm) {
+            if (!password.equals(confirm)) {
                 System.out.println("Passwords didn't match.");
-            } else if (password == confirm) {
+            } else {
                 User user = new User();
                 //Generate random UserID and check it against other users in DB
                 int random = (int) (Math.random() * 1000000000);
